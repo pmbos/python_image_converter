@@ -1,0 +1,47 @@
+2020-12-21 12:14:05,289 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_src
+2020-12-21 12:14:05,289 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_output
+2020-12-21 12:14:05,289 - PIC - Main - INFO - Validating source and target directories...
+2020-12-21 12:14:05,290 - PIC - Main - INFO - All directories OK!
+2020-12-21 12:14:05,290 - PIC - Main - ERROR - No images were found in the source directory!
+2020-12-21 12:14:05,298 - PIC - Main - INFO - Please make sure you have images in the source directory, the default directory is: ./images/
+2020-12-21 12:16:08,525 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_src
+2020-12-21 12:16:08,525 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_output
+2020-12-21 12:16:08,530 - PIC - Main - INFO - Validating source and target directories...
+2020-12-21 12:16:08,535 - PIC - Main - INFO - All directories OK!
+2020-12-21 12:16:08,536 - PIC - Main - INFO - 1 image(s) found!
+2020-12-21 12:16:08,571 - PIC - Main - INFO - Successfully saved file: paintable-contours-December_21_2020-12_16_08-52972082_135_cfde.jpg
+2020-12-21 12:16:08,573 - PIC - Main - INFO - Conversion complete! Files can be found at: F:\Lina's_image_converter\PIC_api_server\pic_output
+2020-12-21 12:27:53,871 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_src
+2020-12-21 12:27:53,871 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_output
+2020-12-21 12:27:53,871 - PIC - Main - INFO - Validating source and target directories...
+2020-12-21 12:27:53,872 - PIC - Main - INFO - All directories OK!
+2020-12-21 12:27:53,872 - PIC - Main - INFO - 1 image(s) found!
+2020-12-21 12:27:53,898 - PIC - Main - INFO - Successfully saved file: paintable-contours-December_21_2020-12_27_53-52972082_135_cfde.jpg
+2020-12-21 12:27:53,904 - PIC - Main - INFO - Conversion complete! Files can be found at: F:\Lina's_image_converter\PIC_api_server\pic_output
+2020-12-21 12:29:27,323 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_src
+2020-12-21 12:29:27,324 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_output
+2020-12-21 12:29:27,324 - PIC - Main - INFO - Validating source and target directories...
+2020-12-21 12:29:27,324 - PIC - Main - INFO - All directories OK!
+2020-12-21 12:29:27,325 - PIC - Main - INFO - 1 image(s) found!
+2020-12-21 12:29:27,343 - PIC - Main - INFO - Successfully saved file: paintable-contours-December_21_2020-12_29_27-52972082_135_cfde.jpg
+2020-12-21 12:29:27,344 - PIC - Main - INFO - Conversion complete! Files can be found at: F:\Lina's_image_converter\PIC_api_server\pic_output
+2020-12-21 13:16:24,466 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_src
+2020-12-21 13:16:24,467 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_output
+2020-12-21 13:16:24,467 - PIC - Main - INFO - Validating source and target directories...
+2020-12-21 13:16:24,467 - PIC - Main - INFO - All directories OK!
+2020-12-21 13:16:24,467 - PIC - Main - INFO - 1 image(s) found!
+2020-12-21 13:16:24,484 - PIC - Main - INFO - Successfully saved file: paintable-contours-December_21_2020-13_16_24-52972082_135_cfde.jpg
+2020-12-21 13:16:24,485 - PIC - Main - INFO - Conversion complete! Files can be found at: F:\Lina's_image_converter\PIC_api_server\pic_output
+2020-12-22 12:47:56,240 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_src
+2020-12-22 12:47:56,246 - PIC - Main - INFO - F:\Lina's_image_converter\PIC_api_server\pic_output
+2020-12-22 12:47:56,253 - PIC - Main - INFO - Validating source and target directories...
+2020-12-22 12:47:56,254 - PIC - Main - INFO - All directories OK!
+2020-12-22 12:47:56,254 - PIC - Main - INFO - 7 image(s) found!
+2020-12-22 12:47:56,287 - PIC - Main - INFO - Successfully saved file: paintable-contours-December_22_2020-12_47_56-19173847_003_3a4f.jpg
+2020-12-22 12:47:56,300 - PIC - Main - INFO - Successfully saved file: paintable-contours-December_22_2020-12_47_56-19173847_006_8eea.jpg
+2020-12-22 12:47:56,315 - PIC - Main - INFO - Successfully saved file: paintable-contours-December_22_2020-12_47_56-19173847_009_15ba.jpg
+2020-12-22 12:47:56,327 - PIC - Main - INFO - Successfully saved file: paintable-contours-December_22_2020-12_47_56-19173847_010_7577.jpg
+2020-12-22 12:47:56,345 - PIC - Main - INFO - Successfully saved file: paintable-contours-December_22_2020-12_47_56-19173847_011_fa11.jpg
+2020-12-22 12:47:56,366 - PIC - Main - INFO - Successfully saved file: paintable-contours-December_22_2020-12_47_56-19173847_012_ee7c.jpg
+2020-12-22 12:47:56,383 - PIC - Main - INFO - Successfully saved file: paintable-contours-December_22_2020-12_47_56-52972082_135_cfde.jpg
+2020-12-22 12:47:56,385 - PIC - Main - INFO - Conversion complete! Files can be found at: F:\Lina's_image_converter\PIC_api_server\pic_output
