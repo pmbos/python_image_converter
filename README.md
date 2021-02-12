@@ -21,11 +21,11 @@ A full list of command line arguments can be found by running: *python app.py --
 
 ## Examples
 #### The original image 
-![Original](./PIC_examples/example.jpg "The original image")
+![Original](./PIC/PIC_examples/example.jpg "The original image")
  
  #### A chalk version of the image  
-![LaPlacian](./PIC_examples/December-17-2020-12-19-17-example.jpg "The image converted to a chalk version")
+![LaPlacian](./PIC//PIC_examples/December-17-2020-12-19-17-example.jpg "The image converted to a chalk version")
 
 #### A drawable contours version of the image 
-![Drawable Contours](./PIC_examples/December-17-2020-12-18-12-example.jpg "The image converted for paintable contours")
+![Drawable Contours](./PIC/PIC_examples/December-17-2020-12-18-12-example.jpg "The image converted for paintable contours")
 
